@@ -1,0 +1,5 @@
+PROJETO FEITO POR G.XAVIER & SARAH MALHEIROS
+
+Nosso projeto possui uma página principal de apresentação, onde podemos ir para a aba de inscrição clicando em "INSCREVA-SE AGORA" na seção Eventos. Ainda na página de apresentação, temos um botão "login" que leva a aba de login. Lá é possivel fazer o login para nosso sistema restrito. Dentro dele, temos o CRUD de inscritos (criação, pesquisa, exclusão e alteração). Também é possível criar um novo usuário de acesso ao sistema.
+O projeto foi realizado com as linguagens HTML, CSS, JavaScript e PHP e conta com um sistema de sessão para acesso ao crud, página de login, página príncipal (Home), sistema de pesquisa de inscrições, página de alteração de inscrição, página de registro de usuário e com todas as outras exigências da seleção.
+No mais, agradecemos essa oportunidade a todos os envolvidos.
